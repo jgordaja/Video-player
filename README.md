@@ -1,6 +1,6 @@
 # Video player 
 
-This Video player using Quasar Framework, based on Video.js. It supports HTML5 video, YouTube (through plugin - videojs-youtube) and streaming video (dash and hls formats)
+This Video player using Quasar Framework, based on [Video.js.](https://videojs.com/) It supports HTML5 video, YouTube (through plugin - videojs-youtube) and streaming video (dash and hls formats)
 
 ### Usage
 ```bash
