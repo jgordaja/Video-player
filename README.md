@@ -20,12 +20,19 @@ quasar dev
 
 ## An example of what it looks like
 
+Image 1  
 
 ![readMeUploads/1.jpg](readMeUploads/1.jpg)  
 
+Image 2  
+
 ![readMeUploads/11.jpg](readMeUploads/11.jpg)  
 
+Image 3  
+
 ![readMeUploads/2.jpg](readMeUploads/2.jpg)  
+
+Image 4  
 
 ![readMeUploads/3.jpg](readMeUploads/3.jpg)
 
